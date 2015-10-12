@@ -1,6 +1,9 @@
 # SDLC-GITHUB
 
 Welcome to CIS 315, Introduction to Systems Analysis and Design
+##Week 3
+Discussion and demo on organization charts, data flow diagrams (DFD), and consideration of an 'organizational DFD'
+
 
 ## Week 2
 We will assign the paper: 
@@ -11,3 +14,5 @@ Access this while attending class, on campus at: http://www.emeraldinsight.com/d
 1. https://vsmbasics.wordpress.com
 2. https://en.wikipedia.org/wiki/Value_stream_mapping#cite_note-6
 3. Be reading chapters 1, 2, 3 in Tegarden text
+
+
