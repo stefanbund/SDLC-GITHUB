@@ -2,6 +2,9 @@
 Welcome to CIS 315, Introduction to Systems Analysis and Design, 
 Cal Poly's answer to the age-old question, what should we build
 
+##Due October 11th
+In textbook, read chapter on Class Diagrams, develop your class diagram, based upon your Use Case analysis. 
+
 ##Due October 6th
 Research Use Case Analysis in your textbook. Read introductory chapter on systems analysis. Bring a Use Case Diagram to class, to present, in conjunction with your BPMN working diagram. 
 
