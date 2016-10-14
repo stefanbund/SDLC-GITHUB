@@ -2,7 +2,7 @@
 Welcome to CIS 315, Introduction to Systems Analysis and Design, 
 Cal Poly's answer to the age-old question, what should we build
 ##Due October 18th
-Please prepare a set of wireframes, based on our examples in class. Use Lucidchart to do so.
+Please prepare a set of wireframes, based on our examples in class: https://github.com/stefanbund/SDLC-GITHUB/tree/master/UI%20wireframes. Use Lucidchart to do so.
 
 ##Due October 11th
 In textbook, read chapter on Class Diagrams, develop your class diagram, based upon your Use Case analysis. 
