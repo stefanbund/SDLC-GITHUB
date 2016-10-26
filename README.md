@@ -1,6 +1,9 @@
 # STARTUP SCHOOL
 Welcome to CIS 315, Introduction to Systems Analysis and Design, 
 Cal Poly's answer to the age-old question, what should we build
+##Due October 27th
+Please update your systems analysis to accomodate a PESTLE, 5 Forces business analysis, encapsulated in a Venn Diagram, where you transpose PESTLE factors. Present in class.
+
 ##Due October 18th
 Please prepare a set of wireframes, based on our examples in class: https://github.com/stefanbund/SDLC-GITHUB/tree/master/UI%20wireframes. Use Lucidchart to do so.
 
