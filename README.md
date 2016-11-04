@@ -1,6 +1,10 @@
 # STARTUP SCHOOL
 Welcome to CIS 315, Introduction to Systems Analysis and Design, 
 Cal Poly's answer to the age-old question, what should we build
+
+##Due November 8
+Please review concepts related to the Business Model Canvas, and discuss with your group. Adjust your systems analysis (UML, User Interfaces) and BPMN/BMM to account for new ideas you generate. Update your PPT and present. 
+
 ##Due October 27th
 Please update your systems analysis to accomodate a PESTLE, 5 Forces business analysis, encapsulated in a Venn Diagram, where you transpose PESTLE factors. Present in class.
 
