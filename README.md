@@ -2,6 +2,12 @@
 Welcome to CIS 315, Introduction to Systems Analysis and Design, 
 Cal Poly's answer to the age-old question, what should we build
 
+##Final Exam Guidelines
+0. prepare for a short T/F test, approximately 30 minutes. 
+1. Remainder of time in exam will be spent interviewing with SB with your group. 
+2. Prepare and submit a requirements document, exemplified here: https://github.com/stefanbund/SDLC-GITHUB/blob/master/req%20demo.pages.pdf
+3. Requirements and slide deck will be submitted via link, to be sent out on night of exam, Tuesday December 6 @ 8:10pm 
+
 ##Due November 8
 Please review concepts related to the Business Model Canvas, and discuss with your group. Adjust your systems analysis (UML, User Interfaces) and BPMN/BMM to account for new ideas you generate. Update your PPT and present. 
 
