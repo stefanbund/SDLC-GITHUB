@@ -15,4 +15,5 @@ as means to communicate the business process, as prescribed by your software des
 work week, october 9, 11
 mid term presentations, oct 16, 18. Presentations will demonstrate the full cycle of analysis through diagrams, and show UI. Feedback will be given, per presentation. Additional time is allowed for submitting mid-term presentations, via power point/email, following week. Due date is october 23rd. 
 
-
+### Blockchain Introduction
+Gilder's world, post-Google, https://www.youtube.com/watch?v=cidZRD3NzHg
