@@ -2,7 +2,7 @@
 Welcome to CIS 315, Introduction to Systems Analysis and Design, 
 Cal Poly's answer to the age-old question, what should we build
 
-###phase one
+### phase one
 1. team formation here https://goo.gl/forms/Gv6w0j4aE7ex9cFL2
 
 ### Use Case Creation
