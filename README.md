@@ -15,4 +15,5 @@ how to prove the worth of your design, post UML, https://www.useloom.com/share/7
 ### Business Process Model Notation (BPMN)
 as means to communicate the business process, as prescribed by your software design, https://www.useloom.com/share/3a3b71df7e674ac695caec7b3c100642
 
-
+### Class Diagrams
+link to tutorial, https://www.useloom.com/share/565a3e45832943238bf4015e68e1555a
