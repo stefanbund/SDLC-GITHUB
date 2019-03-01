@@ -17,3 +17,6 @@ as means to communicate the business process, as prescribed by your software des
 
 ### Class Diagrams
 link to tutorial, https://www.useloom.com/share/565a3e45832943238bf4015e68e1555a
+
+### User Interface Design
+link to tutorials on lucidchart and moqups on Google Drive, https://www.useloom.com/share/0af8cf85ae8444d79f1bbca310b0e09a
