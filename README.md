@@ -21,3 +21,6 @@ for more advanced students, https://www.useloom.com/share/338c640b6aa542c1818665
 
 ### User Interface Design
 link to tutorials on lucidchart and moqups on Google Drive, https://www.useloom.com/share/0af8cf85ae8444d79f1bbca310b0e09a
+
+### Network Design
+a discourse on the amazon cloud, and different network design approaches, https://www.loom.com/share/b260ef3268be4da381303b5fb2987d17
