@@ -24,3 +24,7 @@ link to tutorials on lucidchart and moqups on Google Drive, https://www.useloom.
 
 ### Network Design
 a discourse on the amazon cloud, and different network design approaches, https://www.loom.com/share/b260ef3268be4da381303b5fb2987d17
+
+### GANTT charting and Project Management
+how to build up the GANTT chart / WBS, https://www.loom.com/share/f7ab7d15ead043798e3fce96adeaf3ec
+how to construct the chart in excel, https://www.youtube.com/watch?v=_u_jm1211D4
