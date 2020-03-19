@@ -22,6 +22,9 @@ as means to communicate the business process, as prescribed by your software des
 link to tutorial #1, https://www.useloom.com/share/565a3e45832943238bf4015e68e1555a
 for more advanced students, https://www.useloom.com/share/338c640b6aa542c1818665d4177b4254
 
+### Sequence UML: testing class diagrams / static architectures
+https://www.loom.com/share/7676b8cd9d264ef1b7ef79e7f47ee6d9 
+
 ### User Interface Design
 link to tutorials on lucidchart and moqups on Google Drive, https://www.useloom.com/share/0af8cf85ae8444d79f1bbca310b0e09a
 
